@@ -6,8 +6,8 @@ const ejs = require("ejs");
 const mongoose = require('mongoose');
 
 const homeStartingContent = "“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.”";
-const aboutContent = "This Bloging Website is develope by Rahul More IIT Guwahati (2017-2021).";
-const contactContent = "This Bloging Website is develope by Rahul More IIT Guwahati (2017-2021).";
+const aboutContent = "This Bloging Website is develope by Amogh singh IIT Guwahati (2017-2021).";
+const contactContent = "This Bloging Website is develope by Amogh singh IIT Guwahati (2017-2021).";
 
 const app = express();
 
